@@ -1,0 +1,7 @@
+.result {
+  border: 2px dashed yellow;
+  padding: 5px;
+  margin: 5px;
+  background-color: black;
+  color: red;
+}
